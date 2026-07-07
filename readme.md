@@ -12,11 +12,7 @@ The framework combines:
 
 to improve market state representation, long-sequence feature extraction efficiency, multi-scale information interaction, trading profitability, and decision stability.
 
-The main highlights are:
 
-* A SwiGLU position-aware embedding module is designed for market representation learning.
-* A pyramid Mamba-MoE module is proposed to extract and fuse multi-scale temporal features.
-* A DPA-SwiGLU policy network is developed to enhance PPO-based trading decisions.
 
 # 2. How to Run
 
